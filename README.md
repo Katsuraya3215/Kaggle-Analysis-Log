@@ -1,7 +1,7 @@
 # Kaggle-Analysis-Log
 
 ## Overview
-kaggleのExercizeを使い、pandasの基本操作学習
+kaggleのExercizeを使い、機械学習やpandasなどの基本操作学習
 
 ## Contents
 -Pandas
